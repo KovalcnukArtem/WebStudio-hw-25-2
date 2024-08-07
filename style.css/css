@@ -22,16 +22,19 @@ body {
     background-color: #ff6f6f;
     top: 0;
     left: 40px;
+    z-index: 0;
 }
 
 .blue {
     background-color: #7f7fff;
     top: 50px;
     left: 100px;
+    z-index: 1;
 }
 
 .green {
     background-color: #6fff6f;
     top: 120px;
     left: 160px;
+    z-index: 0;
 }
